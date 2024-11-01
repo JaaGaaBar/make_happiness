@@ -1,4 +1,4 @@
 #### spirit : 136972 ####
 #### amulet : 187130 ####
 ###  ###
-##### Caution Note!! PC might crash. #####
+##### Caution Note!! A Computer might crash. #####
