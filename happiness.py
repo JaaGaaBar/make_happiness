@@ -3,7 +3,7 @@ def happy():
     print(ha)
 
 def make_happiness():
-    for i in range(132):
+    for i in range(round(132)):
         happy()
 
 make_happiness()
