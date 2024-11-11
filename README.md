@@ -2,4 +2,4 @@
 ##### amulet : 187130 #####
 ##### ??g??????r : 132 #####
 ##### possible : x0.1, x0.01, .... #####
-###### Caution : Computer or brain might be crashed. ######
+###### Caution : Computer or brain might crash. ######
