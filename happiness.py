@@ -1,5 +1,5 @@
 def happy():
-    hap = ['136972 187130 ' * round(136972 + 187130)]
+    hap = ['136972 187130 ' ] * round(136972 + 187130)
     print(hap)
 
 def make_happiness():
