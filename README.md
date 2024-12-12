@@ -1,5 +1,5 @@
-##### spirit ---> 136972 #####
-##### amulet ---> 187130 #####
+##### light ---> 136972 #####
+##### aegis ---> 187130 #####
 ##### super_norp ---> 407 #####
 ##### possible : x0.1, x0.01, .... #####
 ##### Caution : Computer or brain might crash. #####
