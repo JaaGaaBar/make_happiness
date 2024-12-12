@@ -1,5 +1,5 @@
 ##### lighten ---> 136972 #####
-##### aegis ---> 187130 #####
+##### purge ---> 187130 #####
 ##### super_norp ---> 407 #####
 ##### possible : x0.1, x0.01, .... #####
 ##### Caution : Computer or brain might crash. #####
